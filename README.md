@@ -29,3 +29,5 @@ Abaixo segue algumas iniciativas que podemos aplicar em âmbito de equipe e tamb
 Se houver espaço, ajude a melhorar o processo de onboarding da empresa, criando assim um momento de acolhimento e isso é um fator importante pois nada pior que chegar a uma empresa e não ter um processo de onboarding decente. 
 
 Entretanto, não estou dizendo que 100% das práticas listadas possuem um resultado positivo, porém, pelo menos uma vez cada uma delas deu certo em algum momento.
+
+Se tiverem dúvidas ou sugestões de práticas para incentivar o aprendizado em sua empresa, envie um email pasra **thiagomplk@gmail.com**.
