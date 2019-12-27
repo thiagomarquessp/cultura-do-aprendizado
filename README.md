@@ -19,7 +19,7 @@ Se você se encontra nesse cenário, podemos sugerir que sessões de "partilha d
 Abaixo segue algumas iniciativas que podemos aplicar em âmbito de equipe e também na esfera empresarial e vou descorrer um pouco de cada uma das iniciativas: 
 
 1. Tech Talks;
-2. Clube do Livro;
+2. [Clube do Livro;](https://github.com/thiagomarquessp/how-to-create-culture-of-learning/blob/master/clube-do-livro.md)
 3. Brownbag Session;
 4. Blog e incentivo à escrita;
 5. Incentivo a ser speakers em conferências;
