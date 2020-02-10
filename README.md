@@ -4,11 +4,9 @@ Esse é um daqueles materiais "Out of Test" que venho dedicando tempo para estud
 
 # Mas o que é ter uma cultura de aprendizagem?
 
-Basicamente é conduzir a empresa (não apenas o time de engenharia) a alcançar níveis excelentes de cultura e aprendizagem (seja ela técnica ou não). Partindo do princípio que todos nós temos intelecto para compartilhar experiências, sejam elas da pessoais ou técnicas, podemos com certeza estimular e preparar um caminho para que essas informações sejam passadas a todos. 
+A cultura do aprendizado consiste em elevar o nível de excelência da empresa em todos os níveis, incluindo pessoal e tecnicamente. Também nos ajuda a entender os demais contextos da empresa (não apenas do time de engenharia) e assim, criarmos uma espécie de ligação entre todas as áreas. 
 
-Ter uma cultura de aprendizado faz com que a aproximação entre todas as áreas seja feita de maneira natural, ou seja, conseguimos aprender em todas as esferas da companhia.
-
-Cultura do aprendizado nos faz criar empatia por pessoas que estão ali pela primeira vez compartilhando alguma experiência pessoal, nos encoraja para sermos os próximos a compartilhar alguma experiência ou aprendizado.
+O que mais me chama a atenção na cultura do aprendizado é justamente o incentivo para que pessoas mais tímidas possam estar a frente compartilhando algum tipo de experiência junto aos demais colegas e em cima disso, podemos encontrar talentos por muito tempo adormecidos em cada um dos nossos. 
 
 # Agora que entendemos, vamos agir!
 
