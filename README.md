@@ -1,12 +1,12 @@
 # Como criar uma cultura de aprendizado dentro de sua empresa?
 
-Esse é um daqueles materiais "Out of Test" que venho dedicando tempo para estudar, aplicar e colher resultados e de alguns anos pra ca, trabalhar com cultura de aprendizado tem sido um dos melhores processo de "aprendizagem" na minha carreira, assim como aprendizado no fator humano.
+O objetivo desse material é mostrar algumas práticas que vem fazendo parte do meu dia a dia nas empresas no que diz respeito a parte cultural, principalmente das equipes de Engenharia. As idéias que aqui estão são inspiradas em diversos trechos de livros como **The Software Crafstman - Sandro Mancuso**, **The Clean Coder - Robert 'Uncle Bob' Martin**, assim como experiências culturais pensadas e executadas nas empresas, que podem servir de inspiração para todos melhorarem a cultura dentro de vossas empresas.
 
 # Mas o que é ter uma cultura de aprendizagem?
 
-A cultura do aprendizado consiste em elevar o nível de excelência da empresa em todos os níveis, incluindo pessoal e tecnicamente. Também nos ajuda a entender os demais contextos da empresa (não apenas do time de engenharia) e assim, criarmos uma espécie de ligação entre todas as áreas. 
+A cultura do aprendizado consiste em elevar o nível de excelência da empresa em todos os níveis, através de um mecanismo de aprendizado contínuo, pessoal e tecnicamente. Também nos ajuda a entender os demais contextos da empresa (não apenas da equipe de engenharia) e assim, criarmos uma espécie de ligação entre todas as áreas, ou seja, o famoso networking. 
 
-O que mais me chama a atenção na cultura do aprendizado é justamente o incentivo para que pessoas mais tímidas possam estar a frente compartilhando algum tipo de experiência junto aos demais colegas e em cima disso, podemos encontrar talentos por muito tempo adormecidos em cada um dos nossos. 
+Criar esse mecanismo de aprendizado faz com que possamos ajudar as pessoas, desde os mais tímidos, até os mais especialistas, a encontrarem maneira de se expressar perante as pessoas, não importando o tipo de conteúdo ali apresentado.
 
 # Agora que entendemos, vamos agir!
 
@@ -16,13 +16,12 @@ Se você se encontra nesse cenário, podemos sugerir que sessões de "partilha d
 
 Abaixo segue algumas iniciativas que podemos aplicar em âmbito de equipe e também na esfera empresarial e vou descorrer um pouco de cada uma das iniciativas: 
 
-1. Tech Talks;
-2. [Clube do Livro;](https://github.com/thiagomarquessp/how-to-create-culture-of-learning/blob/master/clube-do-livro.md)
-3. Brownbag Session;
+1. Company Share;
+2. [Clube do Livro;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/clube-do-livro.md)
+3. Tech Lunch;
 4. Blog e incentivo à escrita;
-5. Incentivo a ser speakers em conferências;
-6. Lean Coffee;
-7. Company Share.
+5. Incentivo a ser speakers em conferências.
+6. [Open Day.]((https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/open-day.md))
 
 Se houver espaço, ajude a melhorar o processo de onboarding da empresa, criando assim um momento de acolhimento e isso é um fator importante pois nada pior que chegar a uma empresa e não ter um processo de onboarding decente. 
 
