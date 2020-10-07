@@ -21,3 +21,9 @@ Bem, essa pode ser uma parte meio chata do processo, pois tenho que chatear as p
 Bem, nem precisa dizer que será necessário reservar uma data para que essa partilha possa ser feita, mas lembre-se, para quem está no contexto de estar em uma empresa com poucos dias, que essa data não demore tanto, assim conseguimos estar o mais rápido possível "preparados" pro nosso dia a dia. Convide por hora apenas algumas pessoas, inclusive faça essa pergunta (de quem mais poderia participar) a pessoa que vai apresentar o conteúdo.
 
 Sobre a data, opte para um dia tranquilo, fora da correria habitual, ou seja, aquela sexta-feira marota.
+
+## Conclusão
+
+Obviamente quando falamos em knowledge share, falamos também de criar uma cultura de partilha de conhecimento, não apenas no âmbito de coisas que precisamos aprender quando entramos na empresa, mas que esse hábito possa ser utilizado para sempre tivermos pessoas a compartilhar conhecimento. Normalmente quando trabalhamos, passamos muito tempo junto das pessoas, porém, pouco falamos de engenharia de software, pouco provável falamos de boas práticas por exemplo ou de alguns patterns novos que a indústria ou a comunidade tem adotado.
+
+[Início](https://github.com/thiagomarquessp/cultura-do-aprendizado)
