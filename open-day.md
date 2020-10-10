@@ -38,9 +38,18 @@ Criar uma small talk de 7 a 10 minutos explicando o que foi feito naquele dia. O
 
 A parte da Small Talks é na minha oponião, a mais importante, pois nesse momento estamos falando de nossa paixão para outras pessoas, ou seja, falamos de Engenharia de Software, que é um assunto qeu não aparece nas mesas de café.
 
+## Jantar / HH 
+
+Ao final dia, nos reunimos para tomar uns copos ou jantar e debater sobre tecnologia, não apenas sobre o evento em si, mas sobre nossa paixão, que é Engenharia de Software.
+
 ## A escolha deve ser individual com o uso irrestrito do bom senso
 
 Sim, temos que dar liberdade para que o indivíduo escolha participar, ou não, e não termos entidades terceiras que cerceiem a liberdade de escolha dessas pessoas, lê-se Agilistas, Scrum Masters, Mágicos e derivados do leite. 
 
 O que eu posso pedir encarecidamente aos que optam por participar, que possam utilizar o bom senso, oolhar para si e para a equipa para ver se para um dia sua produção vai prejudicar, mas dado que está tudo ok, sigam em frente. 
 
+## Conclusão 
+
+O Open Day é sem dúvida alguma, a maneira mais eficiente de criar um mecanismo se aprendizado, os frutos são observados logo na primeira semana após o evento, pois de vez em quando é necessário, para que nossos engenheiros possam abstrair um momento das tarefas diárias e possa olhare a indústria e tudo que está sendo falado e aplicado, assim como se envolver mais as comunidades.
+
+[Início](https://github.com/thiagomarquessp/cultura-do-aprendizado)
