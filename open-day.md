@@ -36,11 +36,11 @@ Na primeira hora do dia do Open Day, faça um planning (calcule o número de pes
 
 Criar uma small talk de 7 a 10 minutos explicando o que foi feito naquele dia. O objetivo é poder encourajar as pessoas a falarem umas com as outras sobre aquilp que escolhemos fazser pra nossa vida, que é engenharia de software e apresentar as pessoas. 
 
-A parte da Small Talks é na minha oponião, a mais importante, pois nesse momento estamos falando de nossa paixão para outras pessoas, ou seja, falamos de Engenharia de Software, que é um assunto qeu não aparece nas mesas de café.
+A parte da Small Talks é na minha oponião, a mais importante, pois nesse momento estamos falando de nossa paixão para outras pessoas, ou seja, falamos de Engenharia de Software, que é um assunto que não aparece nas mesas de café.
 
 ## Jantar / HH 
 
-Ao final dia, nos reunimos para tomar uns copos ou jantar e debater sobre tecnologia, não apenas sobre o evento em si, mas sobre nossa paixão, que é Engenharia de Software.
+Ao final dia, nos reunimos para tomar uns copos ou jantar e debater sobre tecnologia, não apenas sobre o evento em si, mas sobre nossa paixão, que é Engenharia de Software, assim como fazer um momento de reflexão sobre o dia e sobre como podemos aplicar isso no nosso dia a dia, e claro, fazer aquela auto crítica sobre o que podemos melhorar para o próximo evento.
 
 ## A escolha deve ser individual com o uso irrestrito do bom senso
 
