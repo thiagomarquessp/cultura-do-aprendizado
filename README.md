@@ -20,9 +20,8 @@ Abaixo segue algumas iniciativas que podemos aplicar em âmbito de equipe e tamb
 2. [Clube do Livro;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/clube-do-livro.md)
 3. Tech Lunch;
 4. Blog e incentivo à escrita;
-5. Incentivo a ser speakers em conferências.
-6. [Open Day;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/open-day.md)
-7. [Company Share.](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/company-share.md)
+5. [Open Day;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/open-day.md)
+6. [Company Share.](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/company-share.md)
 
 Se houver espaço, ajude a melhorar o processo de onboarding da empresa, criando assim um momento de acolhimento e isso é um fator importante pois nada pior que chegar a uma empresa e não ter um processo de onboarding decente. 
 
