@@ -21,7 +21,7 @@ Abaixo segue algumas iniciativas que podemos aplicar em âmbito de equipe e tamb
 3. [Blog e incentivo à escrita;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/blog-e-escrita.md)
 4. [Open Day;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/open-day.md)
 5. [Company Share;](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/company-share.md)
-6. Processo efetivo de onboarding - TBD.
+6. [Processo efetivo de onboarding.](https://github.com/thiagomarquessp/cultura-do-aprendizado/blob/master/onboarding.md)
 
 Se houver espaço, ajude a melhorar o processo de onboarding da empresa, criando assim um momento de acolhimento e isso é um fator importante pois nada pior que chegar a uma empresa e não ter um processo de onboarding decente. 
 
