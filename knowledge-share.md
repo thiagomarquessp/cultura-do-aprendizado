@@ -2,7 +2,7 @@
 
 O Knowledge Share (KS) é sem dúvida a primeira iniciativa que devemos defender dentro das equipes de engenharia, pois basicamente se trata de criar um mecanismo de aprendizado entre os pares, ou seja, em vez de pensarmos em maneiras de ficar chateando os amiguinhos diariamente, que possamos criar sessões de partilha de conhecimento, seja ele do produto, ou da stack, ou da arquitetura ou até mesmo da maneira de como as coisas funcionam a nível de equipa/empresa/etc.
 
-Hoje em dia o "primeiro" **KS** é feito mesmo no processo de onboarding da equipa, onde temos pessoas que foram elegidas para pode passar esse tipo de conhecimento ainda numa fase inicial da estadia do indivíduo na empresa, porém, nem toda empresa tem um processo interessante de onboarding, e muitas vezes coloca o indivíduo a trabalhar sem ao menos dar algum contexto de como as coisas funcionam e se estamos nesse cenário (que é o default), que aprendermos como fazer isso juntos? Com base nisso, incentive o **KS**.
+Hoje em dia o "primeiro" **KS** é feito mesmo no processo de onboarding da equipa, onde temos pessoas que foram elegidas para poder passar esse tipo de conhecimento ainda numa fase inicial da estadia do indivíduo na empresa, porém, nem toda empresa tem um processo interessante de onboarding, e muitas vezes coloca o indivíduo a trabalhar sem ao menos dar algum contexto de como as coisas funcionam e se estamos nesse cenário (que é o default), a melhor maneira seria esse mecanismo de partilha de conhecimento.
 
 ## Knowledge Share - Definição
 
